@@ -1,6 +1,3 @@
 config.py
-*.txt
-*.log
-git rm -r --cached . 
-git add . 
-git commit -m "removed cached"
+동명봇 로그 - 복사본.txt
+동명봇 로그.log
